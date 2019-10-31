@@ -224,3 +224,32 @@ a{
 	font-weight: bold;
 	padding-left: 20px;
 }
+.product{
+	width: 970px;
+	height: 345px;
+	background-color: red;
+	margin: 0 auto;
+	margin-top: 12px;
+}
+.product .product_l{
+	width: 729px;
+	height: 345px;
+	background:pink;
+	border: 1px solid #D8D8D8;
+}
+.product .product_l_top{
+	height: 155px;
+	width: 712px;
+	background:yellow; 
+	padding:17px 0 0 26px; 
+}
+.product .p_l_t_product1{
+	width: 350px;
+	height: 146px;
+	background:blue;
+}
+.product .product_r{
+	width: 230px;
+	height: 345px;
+	background:green;
+}
