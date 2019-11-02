@@ -232,7 +232,7 @@ a{
 	margin-top: 12px;
 }
 .product .product_l{
-	width: 729px;
+	width: 738px;
 	height: 345px;
 	background:pink;
 	border: 1px solid #D8D8D8;
@@ -247,6 +247,34 @@ a{
 	width: 350px;
 	height: 146px;
 	background:blue;
+}
+.product .buy{
+	width: 99px;
+	height: 143px;
+	background: teal;
+}
+.product .buy .img{
+	height: 100px;
+	border:1px solid #CACACA;
+}
+.product .buy .img s{
+	display: inline-block;
+	width: 90px;
+	height: 62px;
+	background: url(../image/sprite.fw.png) 0 -80px;
+	margin:8px 4px 0 3px;
+}
+.product .buy .btn{
+	width: 99px;
+	height: 26px;
+	background-color:#007CEE;
+	color: white;
+	margin-top: 15px;
+}
+.product .explain{
+	width: 250px;
+	height: 143px;
+	background: red;
 }
 .product .product_r{
 	width: 230px;
